@@ -2,7 +2,7 @@
 Assignment: Code Refactor
 
 Purpose: 
-To improve a marketing agency codebase for long term sustainability and follow accessibility standards. 
+To improve marketing agency codebase for long term sustainability and follow accessibility standards. 
 
 Code Updates:
 Updated the search-engine-optimization archor link.
