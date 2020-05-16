@@ -1,6 +1,4 @@
 # sskumar4-coderefactor
-Assignment: Code Refactor
-
 Purpose: 
 To improve marketing agency codebase for long term sustainability and follow accessibility standards. 
 
@@ -11,6 +9,6 @@ Consolidated the CSS selectors and properties, organizing them to follow the sem
 Include comments before each section of the page.
 
 Usage:
-Launch the index.html to view the web page and click on the links at the top of the page to navigate to the respective area.
+Launch index.html to view the web page and click on links at the top of the page to navigate to the respective area.
 
  
